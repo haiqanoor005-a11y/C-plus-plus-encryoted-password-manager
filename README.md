@@ -16,4 +16,11 @@ C++, OOP, File I/O, String Manipulation, Encryption
 1. Open in Dev C++
 2. Compile and Run
 3. Set a master password and start managing passwords
+## Screenshots
+## Screenshots
 
+### Main Menu
+![Main Menu](main-menu.png)
+
+### View Passwords
+![View Passwords](view passwords.png)
