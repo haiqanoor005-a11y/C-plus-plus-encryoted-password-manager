@@ -23,4 +23,4 @@ C++, OOP, File I/O, String Manipulation, Encryption
 ![Main Menu](main-menu.png)
 
 ### View Passwords
-![View Passwords](view passwords.png)
+![View Passwords](view-passwords.png)
